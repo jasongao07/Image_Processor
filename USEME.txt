@@ -1,0 +1,9 @@
+- Click on the "Load Image" button to load an image
+from the computer.
+- Once loaded, click on any of the buttons to perform
+the action. The action will always be performed on the
+current image being shown.
+- When an action is performed, a pop-up will show,
+prompting for the new name of the image.
+- To change which image is being currently worked on,
+click on the image name in the list in the bottom.

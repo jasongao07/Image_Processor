@@ -1,0 +1,13 @@
+load ./res/rick.jpeg ricky
+save ./res/rick2.jpeg ricky
+horizontal-flip ricky ricky2
+save ./res/rickhorizontal.jpeg ricky2
+blur ricky2 rickyblur
+blur rickyblur rickyblur2
+save ./res/rickrickblurrr.jpeg rickyblur2
+greyscale ricky greyRick
+save ./res/greyRick.png greyRick
+sharpen ricky ricksharp
+save ./res/sharpRick.jpeg ricksharp
+sepia ricky seprick
+save ./res/seprick.jpeg seprick
